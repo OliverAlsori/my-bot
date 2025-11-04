@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2025-11-04T07:14:34.451Z",
+  "version": "1.0.0",
+  "trial": {
+    "startDate": "2025-11-04T07:12:49.350Z",
+    "endDate": "2025-12-04T07:12:49.350Z",
+    "status": "active",
+    "daysRemaining": 30
+  },
+  "apiKey": "auxly_fa5eb74399f2bac91bbaca0d47b39d4644e323317ef24a05c448b1089a944c38"
+}
