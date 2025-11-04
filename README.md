@@ -1,6 +1,6 @@
 # Telegram Accounting Bot (Arabic)
 
-- Copy `.env.example` to `.env` and set `5438433720:AAFy4E825y9V8J0Sn_S9dXK_LuzPDY1Gkrw`.
+- Copy `.env.example` to `.env` and set `token's `.
 - Install and run:
 
 ```bash
